@@ -436,43 +436,43 @@ export const mockLineData = [
     color: tokens("dark").greenAccent[500],
     data: [
       {
-        x: "plane",
+        x: "Jeans",
         y: 101,
       },
       {
-        x: "helicopter",
+        x: "T-shirts",
         y: 75,
       },
       {
-        x: "boat",
+        x: "Hoodies",
         y: 36,
       },
       {
-        x: "train",
+        x: "Shirts",
         y: 216,
       },
       {
-        x: "subway",
+        x: "Trausers",
         y: 35,
       },
       {
-        x: "bus",
+        x: "Phones",
         y: 236,
       },
       {
-        x: "car",
+        x: "Grocery",
         y: 88,
       },
       {
-        x: "moto",
+        x: "Laptops",
         y: 232,
       },
       {
-        x: "bicycle",
+        x: "Hats",
         y: 281,
       },
       {
-        x: "horse",
+        x: "Makeup",
         y: 1,
       },
       {
@@ -490,43 +490,43 @@ export const mockLineData = [
     color: tokens("dark").blueAccent[300],
     data: [
       {
-        x: "plane",
+        x: "Jeans",
         y: 212,
       },
       {
-        x: "helicopter",
+        x: "T-shirts",
         y: 190,
       },
       {
-        x: "boat",
+        x: "Hoodies",
         y: 270,
       },
       {
-        x: "train",
+        x: "Shirts",
         y: 9,
       },
       {
-        x: "subway",
+        x: "Trausers",
         y: 75,
       },
       {
-        x: "bus",
+        x: "Phones",
         y: 175,
       },
       {
-        x: "car",
+        x: "Grocery",
         y: 33,
       },
       {
-        x: "moto",
+        x: "Laptops",
         y: 189,
       },
       {
-        x: "bicycle",
+        x: "Hats",
         y: 97,
       },
       {
-        x: "horse",
+        x: "Makeup",
         y: 87,
       },
       {
@@ -540,47 +540,47 @@ export const mockLineData = [
     ],
   },
   {
-    id: "us",
+    id: "India",
     color: tokens("dark").redAccent[200],
     data: [
       {
-        x: "plane",
+        x: "Jeans",
         y: 191,
       },
       {
-        x: "helicopter",
+        x: "T-shirts",
         y: 136,
       },
       {
-        x: "boat",
+        x: "Hoodies",
         y: 91,
       },
       {
-        x: "train",
+        x: "Shirts",
         y: 190,
       },
       {
-        x: "subway",
+        x: "Trausers",
         y: 211,
       },
       {
-        x: "bus",
+        x: "Phones",
         y: 152,
       },
       {
-        x: "car",
+        x: "Grocery",
         y: 189,
       },
       {
-        x: "moto",
+        x: "Laptops",
         y: 152,
       },
       {
-        x: "bicycle",
+        x: "Hats",
         y: 8,
       },
       {
-        x: "horse",
+        x: "Makeup",
         y: 197,
       },
       {
