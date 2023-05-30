@@ -14,6 +14,17 @@ import { createTheme } from "@mui/material/styles";
 //     800: "#590c0c",
 //     900: "#2d0606"
 // },
+// orange: {
+//     100: "#f4e7e6",
+//     200: "#e9cfcc",
+//     300: "#deb8b3",
+//     400: "#d3a099",
+//     500: "#c88880",
+//     600: "#a06d66",
+//     700: "#78524d",
+//     800: "#503633",
+//     900: "#281b1a"
+// },
 
 export const tokens = (mode) => ({
   ...(mode === "dark"
