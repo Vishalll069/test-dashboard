@@ -1,5 +1,6 @@
 {
   "name": "test-dashboard",
+  "homepage": "https://vishalll069.github.io/test-dashboard",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,17 +8,13 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
-    "@fullcalendar/core": "^5.11.3",
-    "@fullcalendar/daygrid": "^5.11.3",
-    "@fullcalendar/interaction": "^5.11.3",
-    "@fullcalendar/list": "^5.11.3",
-    "@fullcalendar/react": "^5.11.2",
-    "@fullcalendar/timegrid": "^5.11.3",
     "@mui/icons-material": "^5.10.3",
     "@mui/material": "^5.10.5",
     "@mui/x-data-grid": "^5.17.2",
@@ -50,6 +47,7 @@
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.3.4",
+    "gh-pages": "^5.0.0",
     "vite": "^4.3.9"
   }
 }
